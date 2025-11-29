@@ -15,13 +15,11 @@ Built using **Kotlin + Jetpack Compose**, it allows users to:
 
 | Main Screen | Edit Contact Screen |
 |------------|-------------------|
-| ![Main](./screenshots/main.png) | ![Edit](./screenshots/edit.png) |
+| ![Main](<img width="464" height="981" alt="2025-11-29_21-29" src="https://github.com/user-attachments/assets/983e73f9-2aa0-496a-aed1-894c989c4664" />) | ![Edit](<img width="465" height="981" alt="2025-11-29_21-31" src="https://github.com/user-attachments/assets/17ecc278-6c3c-4543-8e1a-76c31fde1b22" />) |
 
 *(Replace with your real image paths on GitHub)*
 
 ---
-<img width="464" height="981" alt="2025-11-29_21-29" src="https://github.com/user-attachments/assets/983e73f9-2aa0-496a-aed1-894c989c4664" />
-<img width="465" height="981" alt="2025-11-29_21-31" src="https://github.com/user-attachments/assets/17ecc278-6c3c-4543-8e1a-76c31fde1b22" />
 
 ## 🔧 Tech Stack
 
